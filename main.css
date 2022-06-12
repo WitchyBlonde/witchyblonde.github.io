@@ -1,14 +1,13 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #22272e;
-    color: aliceblue;
+    background-color: #f4decf;
+    color: #cd956f;
 }
 
 .Title {
     font-size: 300%;
     text-align: center;
-    color: #8ddb8c;
 }
 
 .Content {
@@ -36,8 +35,8 @@ body {
 
 .Elem a {
     display: inline-block;
-    background-color: #6cb6ff;
-    color: #22272e;
+    background-color: #cd956f;
+    color: aliceblue;
     text-decoration: none;
     text-align: center;
     width: 300px;
@@ -48,7 +47,7 @@ body {
 }
 
 .Elem a:hover {
-    background-color: #8ddb8c;
+    background-color: #efb690;
 }
 
 .Elem {
